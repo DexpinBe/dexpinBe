@@ -1,16 +1,19 @@
-## Hi there 👋
+I’m DexpinBe, a passionate web developer with a knack for creating dynamic and responsive applications. Here’s a bit about me:
 
-<!--
-**DexpinBe/dexpinBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on enhancing user experiences through innovative web solutions.
+🌱 I’m currently learning advanced React.
+👯 I’m looking to collaborate on open-source projects that make a difference.
+🤔 I’m looking for help with mastering backend technologies to become a full-stack developer.
+💬 Ask me about web development, agile methodologies, or anything tech-related!
+📫 How to reach me: mariasafer7@icloud.com |(https://www.linkedin.com/in/mar%C3%ADa-s%C3%A1nchez-fern%C3%A1ndez-7a76212b8/)
+⚡ Fun fact: I love solving complex puzzles and often apply this skill to debugging code!
 
-Here are some ideas to get you started:
+My Skills
+Languages: HTML, CSS, JavaScript, Python
+Frameworks: React
+Tools: Git, Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Master backend development with Node.js
+ Contribute to a major open-source project
+ Build a personal portfolio website
+Feel free to explore my repositories and connect with me! 🚀
