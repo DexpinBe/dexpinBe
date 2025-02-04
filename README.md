@@ -8,7 +8,7 @@ I’m DexpinBe, a passionate web developer with a knack for creating dynamic and
 ⚡ Fun fact: I love solving complex puzzles and often apply this skill to debugging code!
 
 My Skills  
-Languages: HTML, CSS, JavaScript, Python  
+Languages: HTML, CSS, JavaScript, Python, Typescript  
 Frameworks: React  
 Tools: Git, Webpack  
 
